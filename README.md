@@ -1,4 +1,4 @@
-![hubble-stsci-h-p1427a-hd](hubble-stsci-h-p1427a-hd.png)
+![Hubble Ultra-Deep Field][cover-img]
 
 ## Hi there I'm Aakash 👋
 
@@ -10,27 +10,25 @@
 - 📫 How to reach me: skyqutip@gmail.com
 - ⚡ Fun fact: I like VSCode! 
 
-<a href="https://linkedin.com/in/skyme5"><h2>✨ Connect with me</h2></a>
-[![Twitter][1.1]][1.2] [![LinkedIn][2.1]][2.2]
+## ✨ Connect with me
+[![Twitter][twitter-img]][twitter-link] [![LinkedIn][linkedin-img]][linkedin-link]
 
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[1.2]: https://twitter.com/theskyme5
+## 🎉 Contribution Overview
+[![Contribution Overview][github-contribution-img]][github-link]
 
-[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2.2]: https://linkedin.com/in/skyme5
+## 💻 Languages
+[![Top Languages used on GitHub][github-toplang-img]][github-link]  [![Contribution Overview][wakatime-overview-img]][github-link]
 
-<a href="https://github.com/skyme5"><h2>🎉 Contribution Overview</h2></a>
-<a href="https://github.com/skyme5">
-  <img src="https://github-readme-stats.vercel.app/api?username=skyme5&count_private=true&show_icons=true&cache_seconds=1800"/>
-</a>
+## 🏆 Github Profile Trophy
+[![GitHub Tropy][github-trophy-img]][github-link]
 
-<a href="https://github.com/skyme5"><h2>💻 Languages</h2></a>
-<a href="https://github.com/skyme5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyme5&langs_count=8&layout=compact&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=skyme5&layout=compact&langs_count=8&cache_seconds=1800"/>
-</a>
-
-<a href="https://github.com/skyme5"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/skyme5">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=skyme5&no-bg=tru&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+[github-link]: https://github.com/skyme5
+[cover-img]: hubble-stsci-h-p1427a-hd.png "Hubble Ultra-Deep Field (HUDF) is an image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies"
+[github-contribution-img]: https://github-readme-stats.vercel.app/api?username=skyme5&count_private=true&show_icons=true&cache_seconds=1800 "Aakash's GitHub Contributions"
+[github-toplang-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=skyme5&langs_count=8&layout=compact&cache_seconds=1800 "Aakash's GitHub Top Languages"
+[github-trophy-img]: https://github-profile-trophy.vercel.app/?username=skyme5&no-bg=tru&column=8&theme=gruvbox&no-frame=true "Aakash's GitHub Trophy"
+[linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-link]: https://linkedin.com/in/skyme5 "Make a connection with Aakash on LinkedIn"
+[twitter-img]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-link]: https://twitter.com/theskyme5 "Connect with Aakash on Twitter"
+[wakatime-overview-img]: https://github-readme-stats.vercel.app/api/wakatime?username=skyme5&layout=compact&langs_count=8&cache_seconds=1800 "Aakash's WakaTime Overview"
