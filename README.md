@@ -26,7 +26,7 @@
 [cover-img]: hubble-stsci-h-p1427a-hd.png "Hubble Ultra-Deep Field (HUDF) is an image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies"
 [github-contribution-img]: https://github-readme-stats.vercel.app/api?username=skyme5&count_private=true&show_icons=true&cache_seconds=1800 "Aakash's GitHub Contributions"
 [github-toplang-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=skyme5&langs_count=8&layout=compact&cache_seconds=1800 "Aakash's GitHub Top Languages"
-[github-trophy-img]: https://github-profile-trophy.vercel.app/?username=skyme5&no-bg=tru&column=8&theme=gruvbox&no-frame=true "Aakash's GitHub Trophy"
+[github-trophy-img]: https://github-profile-trophy.vercel.app/?username=skyme5&no-bg=tru&column=6&theme=flat&margin-w=15&margin-h=15&no-frame=true "Aakash's GitHub Trophy"
 [linkedin-img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-link]: https://linkedin.com/in/skyme5 "Make a connection with Aakash on LinkedIn"
 [twitter-img]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
