@@ -1,4 +1,4 @@
-### Hi there i'm skyme5 👋
+### Hi there i'm Aakash 👋
 
 - 🔭 I’m currently working on Python 🐍
 - 🌱 I’m currently learning everything related to python
