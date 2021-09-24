@@ -10,7 +10,6 @@
 - 📫 How to reach me: skyqutip@gmail.com
 - ⚡ Fun fact: I like VSCode! 
 
-## Connect with me
 <a href="https://linkedin.com/in/skyme5"><h2>✨ Connect with me</h2></a>
 [![Twitter][1.1]][1.2] [![LinkedIn][2.1]][2.2]
 
