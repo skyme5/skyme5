@@ -19,9 +19,9 @@
 
 `Languages from my GitHub repos`
 
-[![Top Languages used on GitHub][toplang-img]][github-link]  
+[![Top Languages used on GitHub][toplang-img]][github-link]
 
-`Convers only past 7 days 😬`
+`Covers only past 7 days 😬`
 
 [![Contribution Overview][wakatime-img]][github-link]
 
