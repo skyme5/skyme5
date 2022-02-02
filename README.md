@@ -235,7 +235,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/skyme5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/skyme5/)
 
-`Write some articles, yaar`
+`TODO: Write some articles, man!`
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/skyme5)
 
