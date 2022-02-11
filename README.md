@@ -250,7 +250,7 @@
 [gmail-link]: mailto:skyqutip@gmail.com?subject=Hi%20Aakash!%20Lets%20connect&body=INSERT_MESSAGE
 [linkedin-img]: https://img.shields.io/badge/skyme5-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
 [linkedin-link]: https://linkedin.com/in/skyme5 "Make a connection with Aakash on LinkedIn"
-[toplang-img]: https://skyme5-readme-stats.vercel.app/api/top-langs/?username=skyme5&langs_count=8&layout=compact&cache_seconds=1800 "Aakash's GitHub Top Languages"
+[toplang-img]: https://skyme5-readme-stats.vercel.app/api/top-langs/?username=skyme5&langs_count=10&layout=compact&cache_seconds=1800 "Aakash's GitHub Top Languages"
 [trophy-img]: https://github-profile-trophy.vercel.app/?username=skyme5&no-bg=tru&column=5&theme=flat&margin-w=10&margin-h=10&no-frame=true "Aakash's GitHub Trophy"
 [twitter-img]: https://img.shields.io/badge/theskyme5-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white
 [twitter-link]: https://twitter.com/theskyme5 "Connect with Aakash on Twitter"
