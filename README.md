@@ -224,18 +224,15 @@
 
 ### 👨‍🏭 Socials
 
-`Ping me on these...`
-
+<!--
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=flat-square&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/9652994/aakash-gajjar)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7164183/aakash-gajjar)
-
-`Still learning`
+-->
+`WIP`
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/skyme5)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/skyme5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/skyme5/)
-
-`TODO: Write some articles, man!`
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/skyme5)
 
