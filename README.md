@@ -9,6 +9,10 @@
 
 [![LinkedIn][linkedin-img]][linkedin-link] [![Twitter][twitter-img]][twitter-link] [![Email][gmail-img]][gmail-link] <img src="https://komarev.com/ghpvc/?username=skyme5&style=flat-square" width="1px"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=akash-gajjar&theme=dark)](https://github.com/akash-gajjar/)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=skyme5)](https://github.com/skyme5/) -->
+
 <!-- ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=flat-square&logo=indeed&logoColor=white) -->
 
 [Click here to know more][github-dashboard]
