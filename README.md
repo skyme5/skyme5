@@ -11,7 +11,7 @@
 
 > I'm currently active on another account at [akash-gajjar](https://github.com/akash-gajjar)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akash-gajjar&theme=dark)](https://github.com/akash-gajjar/)
+[![GitHub Streak](https://github-readme-streak-stats-one-beige.vercel.app/?user=akash-gajjar&theme=dark)](https://github.com/akash-gajjar/)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=skyme5)](https://github.com/skyme5/) -->
 
