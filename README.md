@@ -9,7 +9,7 @@
 
 [![LinkedIn][linkedin-img]][linkedin-link] [![Twitter][twitter-img]][twitter-link] [![Email][gmail-img]][gmail-link] <img src="https://komarev.com/ghpvc/?username=skyme5&style=flat-square" width="1px"/>
 
-> I'm currently active on another account at [akash-gajjar](https://github.com/akash-gajjar)
+> I'm currently active at [akash-gajjar](https://github.com/akash-gajjar)
 
 [![GitHub Streak](https://github-readme-streak-stats-one-beige.vercel.app/?user=akash-gajjar&theme=dark)](https://github.com/akash-gajjar/)
 
@@ -24,5 +24,5 @@
 [gmail-link]: mailto:skyqutip@gmail.com?subject=Hi%20Aakash!%20Lets%20connect&body=INSERT_MESSAGE
 [linkedin-img]: https://img.shields.io/badge/skyme5-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
 [linkedin-link]: https://linkedin.com/in/skyme5 "Make a connection with Aakash on LinkedIn"
-[twitter-img]: https://img.shields.io/badge/theskyme5-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white
-[twitter-link]: https://twitter.com/theskyme5 "Connect with Aakash on Twitter"
+[twitter-img]: https://img.shields.io/twitter/follow/sky_overflow
+[twitter-link]: https://twitter.com/sky_overflow "Connect with Aakash on Twitter"
