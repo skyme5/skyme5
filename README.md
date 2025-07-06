@@ -21,8 +21,8 @@
 
 [github-dashboard]: https://github.com/skyme5/dashboard
 [gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
-[gmail-link]: mailto:skyqutip@gmail.com?subject=Hi%20Aakash!%20Lets%20connect&body=INSERT_MESSAGE
+[gmail-link]: mailto:aakashkgajjar@gmail.com?subject=Hi%20Aakash!%20Lets%20connect&body=INSERT_MESSAGE
 [linkedin-img]: https://img.shields.io/badge/skyme5-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
-[linkedin-link]: https://linkedin.com/in/skyme5 "Make a connection with Aakash on LinkedIn"
-[twitter-img]: https://img.shields.io/twitter/follow/sky_overflow
-[twitter-link]: https://twitter.com/sky_overflow "Connect with Aakash on Twitter"
+[linkedin-link]: https://linkedin.com/in/aakashkgajjar "Make a connection with Aakash on LinkedIn"
+[twitter-img]: https://img.shields.io/twitter/follow/aakashkgajjar
+[twitter-link]: https://twitter.com/aakashkgajjar "Connect with Aakash on Twitter"
