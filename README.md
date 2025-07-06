@@ -1,4 +1,4 @@
-## Hi I'm Aakash <img height="40px" src="wave-hand.gif">
+## Hi I'm Aakash <img height="10px" width="30px" src="wave-hand.gif">
 
 - A software developer from India.
 - I consider myself a problem solver. Working on problems and solving them is really fun.
