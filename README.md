@@ -9,7 +9,7 @@
 
 [![LinkedIn][linkedin-img]][linkedin-link] [![Twitter][twitter-img]][twitter-link] [![Email][gmail-img]][gmail-link] <img src="https://komarev.com/ghpvc/?username=skyme5&style=flat-square" width="1px"/>
 
-I'm currently active at [akash-gajjar](https://github.com/akash-gajjar) and [akash-codiste](https://github.com/aakash-codiste)
+I'm currently active at [akash-gajjar](https://github.com/akash-gajjar) and [aakash-codiste](https://github.com/aakash-codiste)
 
 <!-- > I'm currently active at [akash-gajjar](https://github.com/akash-gajjar)
 
