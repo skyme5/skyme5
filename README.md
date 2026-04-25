@@ -2,8 +2,8 @@
 
 - A software developer from India.
 - I consider myself a problem solver. Working on problems and solving them is really fun.
-- I like people, they are great!
-- I'm always looking for cool projects to participate in, so hook me up if you have something in mind. 😉
+- I studied Applied Physics at the M.S. Univeristy of Baroda and I love physics.
+- I like learning new things, and I'm always looking for cool projects to participate in, so hook me up if you have something in mind. 😉
 
 ### ✨ Contact me
 
