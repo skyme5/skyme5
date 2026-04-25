@@ -1,6 +1,6 @@
 ## Hi I'm Aakash <img width="30px" src="wave-hand.gif">
 
-- I love progreamming, and have been doing since 2014
+- I love progreamming, and have been doing it since 2014
 - I consider myself a problem solver. Working on problems and solving them is really fun.
 - I studied Applied Physics at the M.S. Univeristy of Baroda and I love physics.
 - I like learning new things, and I'm always looking for cool projects to participate in, so hook me up if you have something in mind. 😉
