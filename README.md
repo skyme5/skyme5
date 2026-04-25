@@ -7,24 +7,14 @@
 
 ### ✨ Contact me
 
-[![LinkedIn][linkedin-img]][linkedin-link] [![Twitter][twitter-img]][twitter-link] [![Email][gmail-img]][gmail-link] <img src="https://komarev.com/ghpvc/?username=skyme5&style=flat-square" width="1px"/>
+[![LinkedIn][linkedin-img]][linkedin-link] [![Email][gmail-img]][gmail-link] <img src="https://komarev.com/ghpvc/?username=skyme5&style=flat-square" width="1px"/>
 
-I'm currently active at [akash-gajjar](https://github.com/akash-gajjar) and [aakash-codiste](https://github.com/aakash-codiste)
+I'm currently active at 
 
-<!-- > I'm currently active at [akash-gajjar](https://github.com/akash-gajjar)
+- (2023-now) currenty active at [aakash-codiste](https://github.com/aakash-codiste) 
+- (2022-2024) [akash-gajjar](https://github.com/akash-gajjar) while working at [Spreadd-Adtech](https://github.com/Spreadd-Adtech)
 
-[![GitHub Streak](https://github-readme-streak-stats-one-beige.vercel.app/?user=akash-gajjar&theme=dark)](https://github.com/akash-gajjar/)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=skyme5)](https://github.com/skyme5/) -->
-
-<!-- ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=flat-square&logo=indeed&logoColor=white) -->
-
-[Click here to know more][github-dashboard]
-
-[github-dashboard]: https://github.com/skyme5/dashboard
 [gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
 [gmail-link]: mailto:aakash@aakashgajjar.dev?subject=Hi%20Aakash!%20Lets%20connect&body=INSERT_MESSAGE
 [linkedin-img]: https://img.shields.io/badge/skyme5-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
 [linkedin-link]: https://linkedin.com/in/aakashkgajjar "Make a connection with Aakash on LinkedIn"
-[twitter-img]: https://img.shields.io/twitter/follow/aakashkgajjar
-[twitter-link]: https://twitter.com/aakashkgajjar "Connect with Aakash on Twitter"
